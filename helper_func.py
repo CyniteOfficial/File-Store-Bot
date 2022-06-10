@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)Cynitebots
 
 import base64
 import re

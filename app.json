@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Aadhi000/OP-Files-Store-Bot",
+  "repository": "https://github.com/CyniteOfficial/File-Store-Bot",
   "logo": "https://telegra.ph/file/12921701faf018f20c6a4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": "1250450587"
+      "value": "1883570185"
     },
     "APP_ID":{
       "description": "your api id, take it from my.telegram.org",
